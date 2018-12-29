@@ -29,6 +29,30 @@ sections:
 - type: document
   path: _config.yml
   label: config
+- type: document
+  path: CNAME
+  label: CNAME
+  match: "**/*"
+- type: document
+  path: feed.xml
+  label: feed.xml
+  match: "**/*"
+- type: document
+  path: GEMFILE
+  label: GEMFILE
+  match: "**/*"
+- type: document
+  path: Rakefile
+  label: Rakefile
+  match: "**/*"
+- type: document
+  path: README.md
+  label: README.md
+  match: "**/*"
+- type: document
+  path: fb-instant-articles.xml
+  label: fb-instant-articles
+  match: "**/*"
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
