@@ -4,9 +4,8 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
-- type: document
-  path: _config.yml
-  label: config
+- type: heading
+  label: Site Layout
 - type: directory
   path: _layouts
   label: _layouts
@@ -17,12 +16,19 @@ sections:
   label: _Includes
   create: all
   match: "**/*"
+- type: heading
+  label: Content
 - type: jekyll-pages
   label: Pages
   create: all
 - type: jekyll-posts
   label: Posts
   create: all
+- type: heading
+  label: Global
+- type: document
+  path: _config.yml
+  label: config
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
