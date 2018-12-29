@@ -8,6 +8,7 @@ summary: Quantum computing will profoundly disrupt Bitcoin and the entire crypto
   to the network.
 categories:
 - Quantum Computing
+- Bitcoin
 
 ---
 # Bitcoin and Quantum Computing — An Unpleasant Collision Course
