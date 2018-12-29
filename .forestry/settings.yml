@@ -5,18 +5,8 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
-  path: images
-  label: images
-  create: none
-  match: "**/*"
-- type: directory
-  path: css
-  label: css
-  create: all
-  match: "**/*"
-- type: directory
-  path: _sass
-  label: _sass
+  path: ''
+  label: root
   create: all
   match: "**/*"
 - type: directory
