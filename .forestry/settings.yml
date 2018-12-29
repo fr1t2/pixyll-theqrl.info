@@ -24,8 +24,15 @@ sections:
 - type: jekyll-posts
   label: Posts
   create: all
+  templates:
+  - post-temp
+  - post
 - type: heading
   label: Global
+- type: document
+  path: thanks.md
+  label: thanks.md
+  match: "**/*"
 - type: document
   path: _config.yml
   label: config
