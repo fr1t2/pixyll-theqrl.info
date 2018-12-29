@@ -7,6 +7,7 @@ baseurl: ''
 url: http://theqrl.info
 date_format: "%b %-d, %Y"
 header_pages:
+- links.md
 - about.md
 - contact.html
 google_verification: 
