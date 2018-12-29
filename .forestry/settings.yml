@@ -7,7 +7,6 @@ sections:
 - type: document
   path: links.md
   label: links
-  match: "**/*"
 - type: heading
   label: Site Layout
 - type: directory
