@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bitcoin and Quantum Computing — An Unpleasant Collision Course
-date: 2001-12-01 15:00:00 +0000
+date: 2018-12-29 18:08:00 +0000
 summary: Quantum computing will profoundly disrupt Bitcoin and the entire cryptocurrency
   ecosystem. Bitcoin’s developers have a plan for transitioning to quantum-resistant
   cryptography, but their best efforts may not be enough to avert existential risk
