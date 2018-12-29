@@ -3,8 +3,8 @@ title: The QRL Info
 email: james@theqrl.org
 author: Fr1t2
 description: Information on The Quantum Resistant Ledger and Quantum Computer advancement
-baseurl: ''
-url: http://theqrl.info
+baseurl: https://theqrl.info
+url: https://theqrl.info
 date_format: "%b %-d, %Y"
 header_pages:
 - links.md
