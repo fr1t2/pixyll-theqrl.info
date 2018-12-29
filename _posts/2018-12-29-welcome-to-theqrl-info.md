@@ -1,5 +1,5 @@
 ---
-layout: Post
+layout: post
 title: Welcome to TheQRL.info!
 date: 2018-12-29 19:15:00 +0000
 summary: First post and a new site. We discuss our philosophy and overview for this
