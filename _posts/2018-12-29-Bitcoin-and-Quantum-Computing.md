@@ -6,7 +6,8 @@ summary: Quantum computing will profoundly disrupt Bitcoin and the entire crypto
   ecosystem. Bitcoin’s developers have a plan for transitioning to quantum-resistant
   cryptography, but their best efforts may not be enough to avert existential risk
   to the network.
-categories: jekyll pixyll
+categories:
+- Quantum Computing
 
 ---
 # Bitcoin and Quantum Computing — An Unpleasant Collision Course
