@@ -11,13 +11,13 @@ header_pages:
 - about.md
 - contact.html
 google_verification: 
-google_analytics: 
+google_analytics: UA-58105019-3
 google_tag_manager: 
 bing_verification: 
-animated: false
+animated: true
 show_related_posts: false
 show_post_footers: false
-show_social_icons: false
+show_social_icons: true
 ajaxify_contact_form: false
 enable_mathjax: false
 extended_fonts: false
