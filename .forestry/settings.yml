@@ -30,18 +30,8 @@ sections:
   path: _config.yml
   label: config
 - type: document
-  path: CNAME
-  label: CNAME
-- type: document
-  path: feed.xml
-  label: feed.xml
-  read_only: true
-- type: document
   path: README.md
   label: README.md
-- type: document
-  path: fb-instant-articles.xml
-  label: fb-instant-articles
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
