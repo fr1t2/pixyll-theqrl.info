@@ -1,19 +1,56 @@
 ---
 layout: page
 title: Links
-permalink: "/about/"
+permalink: "/links/"
 tags: about
 published: false
 
 ---
-The QRL Info site is created to inform the masses about the upcoming challenge cryptography and digital security has in the very near future.
+Below you will find links to all sorts of Quantum related material. We will try and keep this fresh, however things have a tendency to fall apart when you least expect. If you find an error or want to add some links please open a PR or issue on our repo https://github.com/fr1t2/theqrl.info
 
-> _- By failing to prepare you are preparing to fail._
->
-> _- Benjamin Franklin_
+## Quantum Computing Advancement
 
-With a focus on the implications to the cryptocurrency world we intend to enlighten and empower developers and forward thinkers to start solving the problem before it is too late.
+Here are the major advancements and various manufactures pushing into this new realm
 
-If you want to contribute to the site and have good content to add pleas make a pull request to the [repo](https://github.com/fr1t2/theqrl.info "TheQRL.info Repo") with your content and we will see about incorporating it here.
+### Maunfactures
 
-Get in contact if you have questions
+* IBM
+* ...
+
+### Advancements
+
+* Qubit Counter
+* ...
+
+## Cryptocurrencies
+
+Cryptocurrency projects that are quantum resistant based on the signature scheme and cryptography they use
+
+* The Quantum Resistant Ledger
+* ...
+* ...
+
+## Cryptography
+
+Here are the latest cryptographic schemes that are intended to be quantum resistant. Only time will tell...
+
+* XMSS
+* ...
+* ...
+
+## Projects using Quantum Crypto
+
+* The QRL
+* Are there any more?
+
+## Quantum Resistant Communication
+
+Fire the lasers peww peww..
+
+* Satellite communication
+* Fiber Communication
+* ...
+
+## Other Interesting Links
+
+* Stuff here
