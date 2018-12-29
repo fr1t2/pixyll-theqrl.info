@@ -8,7 +8,7 @@ sections:
   path: images
   label: images
   create: all
-  match: "**/*"
+  match: "**/**/*"
 - type: directory
   path: css
   label: css
