@@ -11,7 +11,6 @@ categories:
 - Bitcoin
 
 ---
-# Bitcoin and Quantum Computing — An Unpleasant Collision Course
 
 > **_“First movers very rarely win with new technology…because tech becomes obsolete. Tech innovates or it dies.”_**
 
