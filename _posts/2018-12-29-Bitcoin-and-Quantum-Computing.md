@@ -12,7 +12,7 @@ categories:
 
 ---
 
-> **_“First movers very rarely win with new technology…because tech becomes obsolete. Tech innovates or it dies.”_**
+**_“First movers very rarely win with new technology…because tech becomes obsolete. Tech innovates or it dies.”_**
 
 – _Ari Paul, co-founder/CIO of Blocktower Capital, on Anthony Pompliano’s Off the Chain Podcast, 12/17/18_
 
