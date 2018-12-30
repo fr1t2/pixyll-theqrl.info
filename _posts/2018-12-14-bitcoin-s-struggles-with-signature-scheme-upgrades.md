@@ -1,5 +1,5 @@
 ---
-layout: ''
+layout: page
 title: Bitcoin's struggles with signature scheme upgrades
 date: 2018-12-14 07:00:00 +0000
 summary: ''
