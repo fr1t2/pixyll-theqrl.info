@@ -29,4 +29,5 @@ fields:
   hidden: false
   default: ''
 pages:
+- _posts/bitcoin-s-struggles-with-signature-scheme-upgrades.md
 - _posts/2018-12-29-welcome-to-theqrl-info.md
