@@ -4,7 +4,7 @@ email: james@theqrl.org
 author: Fr1t2
 description: Information on The Quantum Resistant Ledger and Quantum Computer advancement
 baseurl: 
-url: https://theqrl.info
+url: 
 date_format: "%b %-d, %Y"
 header_pages:
 - links.md
