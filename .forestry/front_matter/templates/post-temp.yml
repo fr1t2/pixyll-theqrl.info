@@ -29,3 +29,5 @@ fields:
   hidden: false
   default:
   - post
+pages:
+- _posts/what-is-qrl.md
