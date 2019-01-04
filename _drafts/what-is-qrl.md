@@ -37,26 +37,13 @@ Using this generated unique key you generate a public address to send quanta to 
 
 ## Definitions
 
-***
-
-> **quanta**
-
-* A basic unit of QRL, used to describe the currency.
-
-> **shore**
-
-* A single unit of quanta. Used to describe the currency. 
-
-***
-
-> **Block**
-
-* A cryptographically generated number that includes information from all transactions as well as the hash from the previous block.
-
-***
-
-> **P2P**
-
-* A peer-to-peer network used to share information.
-
-***
+* P2P
+  * A peer-to-peer network used to share information.
+* **Quanta**
+  * A basic unit of QRL, used to describe the currency.
+* **shore**
+  * A single unit of quanta. Used to describe the currency.
+* **Block**
+  * A cryptographically generated number that includes information from all transactions as well as the hash from the previous block
+* **P2P**
+  * A peer-to-peer network used to share information.
