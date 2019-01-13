@@ -7,7 +7,7 @@ tags: about
 ---
 The QRL Info site is created to inform the masses about the upcoming challenge cryptography and digital security has in the very near future.
 
- _By failing to prepare you are preparing to fail._
+> _By failing to prepare you are preparing to fail._
 
 _Benjamin Franklin_
 
