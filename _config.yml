@@ -16,7 +16,7 @@ google_tag_manager:
 bing_verification: 
 animated: true
 show_related_posts: false
-show_post_footers: false
+show_post_footers: true
 show_social_icons: true
 ajaxify_contact_form: false
 enable_mathjax: true
@@ -30,17 +30,17 @@ txtpen_sitename:
 facebook_comments: 
 facebook_appid: 
 facebook_comments_number: 10
-github_username: 
-reddit_username: 
+github_username: theqrl
+reddit_username: mc_schmitt
 bitbucket_username: 
-stackoverflow_id: 
-twitter_username: just_a_warning
+stackoverflow_id: qrledger
+twitter_username: qrledger
 skype_username: 
 steam_nickname: 
 google_plus_id: 
 linkedin_username: 
 angellist_username: 
-medium_id: 
+medium_id: the-quantum-resistant-ledger
 bitcoin_url: 
 paypal_url: 
 flattr_button: 
