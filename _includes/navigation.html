@@ -8,8 +8,8 @@
     {% if page.title %}
         <a href="{{ page.url | relative_url }}">{{ page.title }}</a>
     {% endif %}
+    
+{% endfor %}
 	{% if site.discord_invite %}
       <a class="" href="{{ site.discord_invite }}" target="_blank">Discord</a>
     {% endif %}  
-    
-{% endfor %}
