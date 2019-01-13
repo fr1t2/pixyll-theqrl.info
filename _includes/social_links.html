@@ -2,10 +2,7 @@
   <div class="social-icons-right">
     {% if site.github_username %}
       <a class="fa fa-github" href="https://github.com/{{ site.github_username }}"></a>
-    {% endif %}
-    {% if site.discord_invite %}
-      <a class="fa fa-discord" href="{{ site.discord_invite }}"></a>
-    {% endif %}    
+    {% endif %}  
     {% if site.reddit_username %}
     <a class="fa fa-reddit" href="https://reddit.com/user/{{ site.reddit_username }}"></a>
     {% endif %}
@@ -60,6 +57,9 @@
     {% if site.flattr_button %}
       {{ site.flattr_button }}
     {% endif %}
+     {% if site.discord_invite %}
+      <a class="button" href="{{ site.discord_invite }}">Discord</a>
+    {% endif %}  
   </div>
 </div>
 <div class="clearfix"></div>
