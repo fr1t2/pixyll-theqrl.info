@@ -1,8 +1,8 @@
 /* Basscss Color Base */
 
 body {
-  color: $dark-gray;
-  background-color: white;
+  color: $lighter-gray;
+  background-color: $dark-gray;
 }
 
 a {
@@ -16,7 +16,7 @@ a:hover {
 
 pre,
 code {
-  background-color: $lighter-gray;
+  background-color: $dark-gray;
   border-radius: $border-radius;
 }
 
